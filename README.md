@@ -2,6 +2,8 @@
 This is the Arduino based IOT project. When we give this system an image as the input, it can physically draw that image.
 <br />
 <img src="https://github.com/Upeshitha/Wall-Plotter/blob/master/Pic/Plotter.JPG" alt="wall-plotter">
+<br />
+Feel free to watch the <a href="https://youtu.be/TCaIDf5mXTc">video</a>
 
 ## OBJECTIVE OF PROJECT
 <img src="https://github.com/Upeshitha/Wall-Plotter/blob/master/Pic/flow%20chart.jpg" alt="flow-chart-of-the-project">
@@ -30,7 +32,3 @@ This is the Arduino based IOT project. When we give this system an image as the 
 
 ## Wiring Diagram
 <img src="https://github.com/Upeshitha/Wall-Plotter/blob/master/Pic/Wall-plotter.PNG" alt="wiring">
-
-## Inputs
-<img src="https://github.com/Upeshitha/Wall-Plotter/blob/master/Pic/input%201.JPG" alt="1">
-<img src="https://github.com/Upeshitha/Wall-Plotter/blob/master/Pic/input%202.JPG" alt="2">
